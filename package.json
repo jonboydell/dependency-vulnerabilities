@@ -2,7 +2,8 @@
     "name": "dep-vuln",
     "version": "1.0.0",
     "dependencies": {
-      "url-regex": "3.2.0"
+      "url-regex": "3.2.0",
+      "axois": "0.0.1-security"
     }
   }
   
